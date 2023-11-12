@@ -1,0 +1,11 @@
+.country-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.flags-container img {
+    width: 100px;
+    height: 70px;
+    margin-right: 15px;
+}
